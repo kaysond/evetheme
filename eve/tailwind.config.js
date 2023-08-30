@@ -81,22 +81,6 @@ module.exports = {
       3: '3rem',
       4: '4rem'
     },
-    margin: {
-      0: '0px',
-      '025': '.25rem',
-      '05': '.5rem',
-      '075': '.75rem',
-      1: '1rem',
-      125: '1.25rem',
-      15: '1.5rem',
-      2: '2rem',
-      225: '2.25rem',
-      25: '2.5rem',
-      275: '2.75rem',
-      3: '3rem',
-      4: '4rem',
-      16: '16rem'
-    },
     borderRadius: {
       DEFAULT: '0.25rem',
       100: '100%'
